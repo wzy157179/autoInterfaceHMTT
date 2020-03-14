@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_mp.py:14 正在初始化自媒体登录url:http://ttapi.research.itcast.cn/mp/v1_0/authorizations
+[32mINFO    [0m root:api_mp.py:17 正在初始化自媒体发布文章 url:http://ttapi.research.itcast.cn/mp/v1_0/articles
+[32mINFO    [0m root:test01_mp.py:15 正在获取ApiMp对象：<api.api_mp.ApiMp object at 0x050983F0>

@@ -1,0 +1,22 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1584168638259" stop="1584168638259">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1584168638259" status="broken" stop="1584168638259">
+      <name>test03_app</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>test03_app.py:6: in &lt;module&gt;
+    class TestApp:
+test03_app.py:13: in TestApp
+    def test01_mis_login(self, phone=api, password='testpwd123'):
+E   NameError: name 'api' is not defined</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,4 @@
+[32mINFO    [0m root:api_mis.py:14 正在初始化后台登录url:http://ttapi.research.itcast.cn/mis/v1_0/authorizations
+[32mINFO    [0m root:api_mis.py:17 正在初始化查询文章url:http://ttapi.research.itcast.cn/mis/v1_0/articles
+[32mINFO    [0m root:api_mis.py:20 正在初始化审核url:http://ttapi.research.itcast.cn/mis/v1_0/articles
+[32mINFO    [0m root:test02_mis.py:14 正在获取ApiMis对象:<api.api_mis.ApiMis object at 0x05098B10>

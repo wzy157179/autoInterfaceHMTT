@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_mp.py:38 正在调用自媒体发布文章方法，测试数据: {'title': '今晚打老虎', 'content': '今晚打老虎', 'channel_id': '7', 'cover': {'type': 0, 'images': []}} 请求头：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODQxNzgwNTIsInVzZXJfaWQiOjExNDk4NjQ2OTA4MjY4NzA3ODQsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.OuJk5PcdN4l9rfx2e0iR78FRoKrOcHDjBSoQxja_Jig'}
+[32mINFO    [0m root:test01_mp.py:39 正在提取发布文章id：1238728459610488832
+[32mINFO    [0m root:tools.py:20 正在调用公共方法断言

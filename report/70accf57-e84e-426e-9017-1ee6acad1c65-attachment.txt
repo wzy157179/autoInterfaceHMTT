@@ -1,0 +1,2 @@
+[32mINFO    [0m root:api_mis.py:34 正在调用查询文章方法，测试数据: {'title': '今晚打老虎', 'channel': '数据库'} 请求头：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODQxNzgwNTQsImFkbWluaXN0cmF0b3JfaWQiOjIsInJlZnJlc2giOmZhbHNlfQ.H-kjH-WyqasUk7WSekCsqvspD-PJROD7p3qmMkpTTfo'}
+[32mINFO    [0m root:tools.py:20 正在调用公共方法断言

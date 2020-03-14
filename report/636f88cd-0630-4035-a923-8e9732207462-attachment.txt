@@ -1,0 +1,2 @@
+[32mINFO    [0m root:api_mis.py:42 正在调用审核文章方法，测试数据: {'article_ids': [1238728459610488832], 'status': 2} 请求头：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODQxNzgwNTQsImFkbWluaXN0cmF0b3JfaWQiOjIsInJlZnJlc2giOmZhbHNlfQ.H-kjH-WyqasUk7WSekCsqvspD-PJROD7p3qmMkpTTfo'}
+[32mINFO    [0m root:tools.py:20 正在调用公共方法断言
